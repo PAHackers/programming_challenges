@@ -1,5 +1,5 @@
 # Challenge
-Given an unsorted list of integers, find a pair which add up to a given (target) value. Identify the indices of the values which sum to the target. These indices must be distinct (i.e. you can't use a value in the same position twice).
+Given an unsorted list of positive integers, find a pair which add up to a given (target) value. Identify the indices of the values which sum to the target. These indices must be distinct (i.e. you can't use a value in the same position twice).
 
 ## Rules
 You must use python 3.
