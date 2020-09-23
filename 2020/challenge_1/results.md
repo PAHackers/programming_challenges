@@ -18,13 +18,13 @@ add to the following target values:
 5. 25 (worst case)
 
 ## Results
-| target value | hrshenk | thehinkydonut | thunderhorse\* | veender |
-| --- |--- | --- | --- | --- |
-| 193729123 | | | | |
-| 199029 | | | | |
-| 2500 | | | | |
-| 20 | | | | |
-| 25 | | | | |
+| target value | gek | hrshenk | thehinkydonut | thunderhorse\* | veender |
+| --- | --- | --- | --- | --- | --- |
+| 193729123 | | | | | |
+| 199029 | | | | | |
+| 2500 | | | | | |
+| 20 | | | | | |
+| 25 | | | | | |
 
 \* Thunderhorse is judging this competition and therefore ineligible to
 compete. His times are listed only for reference.
