@@ -20,6 +20,7 @@ add to the following target values:
 7. 2000000000 (worst case)
 
 ## Results
+
 | target value | gek | greenjam98 | hrshenk O(n) | thehinkydonut | thunderhorse\* O(n) | veender |
 | --- | --- | --- | --- | --- | --- |
 | 480107308 (best case)     | 11.86s | 54.07s | 0.020s | 313.17s  | 0.019s  | 35.14s  |
