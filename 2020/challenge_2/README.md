@@ -19,8 +19,10 @@ of your algorithm using Big-O notation.
 
 10 bonus points for getting within 5% of thunderhorse's round 1 times
 
-15 bonus points for getting within 5% of thunderhorse's round 2 times (that's
-right, I improved my times, too!)
+~~15 bonus points for getting within 5% of thunderhorse's round 2 times (that's
+right, I improved my times, too!)~~ Unfortunately, I found some serious issues
+with my round 2 solution and won't have time to resolve them, so I'm withdrawing
+this bonus.
 
 ### Analysis
 If you have not submited a time complexity analysis as part of round 1, you
@@ -30,7 +32,7 @@ Additional 5 points for a time complexity analysis of your round 2 code.
 Include an explaination of how you were able to optimize the performance.
 
 ## Submission and Due Date
-PM your code to @ThunderHorse on the PA Hackers by 11:59PM on Sunday, October 04, 2020.
+PM your code to @ThunderHorse on the PA Hackers by 11:59PM on Sunday, October ~~04~~11, 2020.
 
 ## Tips
 
