@@ -4,6 +4,8 @@
 
 [Challenge 1](./challenge_1)
 
+[Challenge 2](./challenge_2)
+
 ## Leader Board
 
 | Name | Score |
