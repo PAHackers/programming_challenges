@@ -32,7 +32,7 @@ Additional 5 points for a time complexity analysis of your round 2 code.
 Include an explaination of how you were able to optimize the performance.
 
 ## Submission and Due Date
-PM your code to @ThunderHorse on the PA Hackers by 11:59PM on Sunday, October ~~04~~11, 2020.
+PM your code to @ThunderHorse on the PA Hackers by 11:59PM on Sunday, ~~October 11, 2020~~ January 3, 2021.
 
 ## Tips
 
