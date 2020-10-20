@@ -21,15 +21,15 @@ add to the following target values:
 
 ## Results
 
-| target value | gek | greenjam98 | hrshenk\* O(n) | thehinkydonut | thunderhorse\*\* O(n) | veender |
-| --- | --- | --- | --- | --- | --- | --- |
-| 480107308 (best case)     | 11.86s | 54.07s | 0.020s | 313.17s  | 0.019s  | 35.14s  |
-| 193729123                 | 347.46s| 49.13s | 0.54s  | 353.19s  | 0.028s  | 324.82s |
-| 199029                    | DNF    | 44.67s | 2.65s  | 455.81s  | 0.48s   | DNF     |
-| 2500                      | DNF    | 46.47s | 17.49s  | 232.76s | 2.80s   | DNF     |
-| 20                        | DNF    | 48.34s | 288.34s | 233.55s | 27.46s  | DNF     |
-| 25                        | DNF    | 44.86s | 227.31s | DNF     | 27.86s  | DNF     |
-| 2000000000 (worst case)   | DNF    | DNF    | 229.22s | DNF     | 199.41s | DNF     |
+| target value | gek | greenjam98 | hrshenk\* O(n) | ponch | thehinkydonut | thunderhorse\*\* O(n) | veender |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 480107308 (best case)     | 11.86s | 54.07s | 0.020s | 51.71s | 313.17s  | 0.019s  | 35.14s  |
+| 193729123                 | 347.46s| 49.13s | 0.54s  | 75.124s | 353.19s  | 0.028s  | 324.82s |
+| 199029                    | DNF    | 44.67s | 2.65s  | DNF | 455.81s  | 0.48s   | DNF     |
+| 2500                      | DNF    | 46.47s | 17.49s | DNF | 232.76s | 2.80s   | DNF     |
+| 20                        | DNF    | 48.34s | 288.34s | DNF | 233.55s | 27.46s  | DNF     |
+| 25                        | DNF    | 44.86s | 227.31s | DNF | DNF     | 27.86s  | DNF     |
+| 2000000000 (worst case)   | DNF    | DNF    | 229.22s | DNF | DNF     | 199.41s | DNF     |
 
 \* Winner!
 
@@ -46,6 +46,9 @@ compete. His times are listed only for reference.
 
 #### hrshenk
 ![Memory Utilization over Time](./memory_over_time/hrshenk.png)
+
+#### ponch
+![Memory Utilization over Time](./memory_over_time/ponch.png)
 
 #### thehinkydonut
 ![Memory Utilization over Time](./memory_over_time/thehinkydonut.png)
